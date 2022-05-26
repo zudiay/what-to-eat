@@ -27,7 +27,7 @@ function App() {
         name: i === 19 ? food : undefined
       });
 
-      await sleep(50);
+      await sleep(100);
     }
   }
 
