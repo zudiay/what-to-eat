@@ -18,16 +18,16 @@ function App() {
   async function getFood() {
     const keys = Object.keys(FOOD_MASTERDATA);
 
-    for (let i = 0; i < 30; i++) {
+    for (let i = 0; i < 20; i++) {
       const randomNumber = Math.floor(Math.random() * 1000) % keys.length;
       const food = keys.filter((name, index) => index === randomNumber)[0];
 
       setCurrentFood({
         image: FOOD_MASTERDATA[food],
-        name: i === 29 ? food : undefined
+        name: i === 19 ? food : undefined
       });
 
-      await sleep(Math.max(500/i, 30));
+      await sleep(50);
     }
   }
 
