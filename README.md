@@ -1,6 +1,6 @@
 # WHAT TO EAT
 
-###2018400045 Zuhal Didem Aytac
+### 2018400045 Zuhal Didem Aytac
 To run this application, you should have 'yarn' installed.
 
 First, run ```yarn install```
