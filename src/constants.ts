@@ -8,7 +8,7 @@ export const FOOD_MASTERDATA: { [key: string]: string } = {
   'fajitas': 'https://i2.wp.com/www.downshiftology.com/wp-content/uploads/2020/02/Chicken-Fajitas-4.jpg',
   'banana split': 'https://cdn.apartmenttherapy.info/image/upload/f_jpg,q_auto:eco,c_fill,g_auto,w_1500,ar_4:3/k%2FPhoto%2FSeries%2F2021-05-how-to-banana-split%2F2021-05-18_ATK-0453',
   'chicken fried steak': 'https://more.ctv.ca/content/dam/ctv/uploadImg/2020/9/24/133322_chicken%20fried%20steak.jpg',
-  'california roll': 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNOleT_uDqVSyweZ9Ecudotrpgc4IEUzCRIh6MXKPkNUJv0WAWxPgt_zHRE8upgw-yYJQ&usqp=CAU',
+  'california roll': 'https://cdn.foodaciously.com/static/recipes/6c091a00-922d-48d9-b87c-ce2d364580f9/crunchy-rolls-california-maki-rolls-vegan-8d0c4850df2d27f08c7e9b444bef05c1-2560-q60.jpg',
   'mac and cheese': 'https://www.lactaid.com/sites/lactaid_us/files/recipe-images/mac-and-cheese-website.png',
   'baked beans': 'https://www.cuisinart.com/globalassets/catalog/appliances/food-processors/complete-chef-cooking-food-processor/bakedbeans_ss1132088288.jpg',
   'buffalo wings': 'https://hips.hearstapps.com/hmg-prod/images/classic-buffalo-wings-horizontal-279-1547506077.jpg',
